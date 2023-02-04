@@ -29,7 +29,7 @@
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social networks:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marta-castrillo-delgado" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="marta-castrillo-delgado" /></a>
 <a href="https://kaggle.com/marta99" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="marta99" /></a>

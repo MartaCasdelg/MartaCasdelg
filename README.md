@@ -33,3 +33,10 @@
 <a href="https://linkedin.com/in/marta-castrillo-delgado" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="marta-castrillo-delgado" /></a>
 <a href="https://kaggle.com/marta99" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="marta99" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martacasdelg&show_icons=true&locale=en&layout=compact" alt="martacasdelg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martacasdelg&show_icons=true&locale=en" alt="martacasdelg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martacasdelg&" alt="martacasdelg" /></p>
+

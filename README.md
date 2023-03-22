@@ -34,6 +34,7 @@
 <a href="https://kaggle.com/marta99" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="marta99" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martacasdelg&show_icons=true&locale=en&layout=compact" alt="martacasdelg" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martacasdelg&" alt="martacasdelg" /></p>
+&nbsp;
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martacasdelg&" alt="martacasdelg" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martacasdelg&show_icons=true&locale=en&layout=compact" alt="martacasdelg" /></p>

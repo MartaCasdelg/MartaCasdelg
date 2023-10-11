@@ -32,7 +32,7 @@
   </a> 
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scipy"/>
   </a> 
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib"/>
+    <img src="https://img.shields.io/badge/Matplotlib-%237CAFC4.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib"/>
   </a> 
     <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/>
   </a> 

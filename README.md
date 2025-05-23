@@ -6,8 +6,6 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning and practicing **Python and SQL**
-- 👨‍💻 All of my projects are available at [martacastrillo.com](https://martacastrillo.com/)
 - 💞️ I love learning how to use new technologies
 - 📫 How to reach me: **martacasdelg@gmail.com**
 

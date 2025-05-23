@@ -18,6 +18,8 @@
   </a>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sqlserver"/>
   </a>
+    <img src="https://img.shields.io/badge/Qlik-3776AB?style=for-the-badge&logo=Qlik&logoColor=white" alt="qlik"/>
+  </a>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
     <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
